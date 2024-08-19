@@ -156,6 +156,24 @@ This is  a simple event that is called on every frame of gameplay.
 ![](https://d1iv7db44yhgxn.cloudfront.net/documentation/images/1723573a-3c24-4991-8660-875d944ae17c/tickex.png)
 *This example  uses Delta Seconds to form a count down timer that displays in the log with the final tick being "Blast Off!"*
 
+## Event Receive Draw HUD
+![](https://d1iv7db44yhgxn.cloudfront.net/documentation/images/8a4bfd81-453b-433f-9fa6-fc0191a50003/drawhud.png)
+This is a specialized event that enables Blueprints to draw to the HUD. The HUD draw nodes require this event to be the one that creates them.
+
+| Output Pins | Type | Description                                |
+| ----------- | ---- | ------------------------------------------ |
+| Size X      | Int  | The width of the render window in pixels.  |
+| Size Y      | Int  | The height of the render window in pixels. |
+
+![](https://d1iv7db44yhgxn.cloudfront.net/documentation/images/6d2600d5-c8a1-4654-a556-3ec13c6d2f10/drawhudex.png)
+*This will create a clickable Hit Box in the center of the render window, with a red box behind it so you can see it*
+## Custom Event
+![](https://d1iv7db44yhgxn.cloudfront.net/documentation/images/2f7424d0-7325-4e43-add1-de934a57eeff/name_custom_event.png)
+The Custom Event node is a specialized node with its own workflow.
+
+To learn more:
+- [Custom Events](https://dev.epicgames.com/documentation/en-us/unreal-engine/custom-events-in-unreal-engine): Create your own events that can be called at any point in your Blueprint's sequence.
+- [Calling Events through Sequencer](https://dev.epicgames.com/documentation/en-us/unreal-engine/fire-blueprint-events-during-cinematics-in-unreal-engine): Create events to be triggered at specific times during the playback of a cinematic sequence.
 
 ---
 Links:
