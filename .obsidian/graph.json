@@ -27,6 +27,13 @@
         "a": 1,
         "rgb": 14725458
       }
+    },
+    {
+      "query": "path:Programming/C++  ",
+      "color": {
+        "a": 1,
+        "rgb": 12661555
+      }
     }
   ],
   "collapse-display": true,
@@ -34,11 +41,11 @@
   "textFadeMultiplier": -0.5,
   "nodeSizeMultiplier": 1,
   "lineSizeMultiplier": 1,
-  "collapse-forces": true,
-  "centerStrength": 0.71875,
-  "repelStrength": 16.9791666666667,
+  "collapse-forces": false,
+  "centerStrength": 0.5,
+  "repelStrength": 10,
   "linkStrength": 1,
   "linkDistance": 253,
-  "scale": 0.6316046762907526,
+  "scale": 0.38230109687700126,
   "close": false
 }
