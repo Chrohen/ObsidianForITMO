@@ -11,17 +11,9 @@
             "id": "2fb319e9a18c5051",
             "type": "leaf",
             "state": {
-              "type": "graph",
-              "state": {}
-            }
-          },
-          {
-            "id": "62a0bc1df204b171",
-            "type": "leaf",
-            "state": {
               "type": "markdown",
               "state": {
-                "file": "Game Design/Джесси Шелл. Призмы/Призма 2. Призма существенного опыта.md",
+                "file": "Game Design/Опыт определяется местом действия.md",
                 "mode": "source",
                 "source": false
               }
@@ -56,7 +48,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "path: Quotes  ",
+                "query": "",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -93,6 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
+                "file": "Game Design/Опыт определяется местом действия.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -109,6 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
+                "file": "Game Design/Опыт определяется местом действия.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -130,7 +124,9 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {}
+              "state": {
+                "file": "Game Design/Опыт определяется местом действия.md"
+              }
             }
           }
         ]
@@ -154,41 +150,41 @@
   },
   "active": "2fb319e9a18c5051",
   "lastOpenFiles": [
-    "Game Design/Полезные навыки. Джесси Шелл. The Art of Gamedesign.md",
-    "Game Design/Джесси Шелл. Призмы/Призма 2. Призма существенного опыта.md",
-    "Game Design/Самоанализ с точки зрения геймдизайнера. Преимущества, риски и применение.md",
-    "Quotes/202408211414.md",
-    "Game Design/Джесси Шелл. Призмы/Призма 1. Призма эмоций.md",
-    "Quotes/202408211358.md",
-    "Game Design/Джесси Шелл. Призмы",
-    "Quotes/202408211321.md",
-    "Quotes/202408211317.md",
-    "Quotes/202408211313.md",
-    "Unreal Engine/Unsorted/Actor.md",
-    "Quotes/202408200850.md",
-    "Книги.md",
-    "Unreal Engine/Basic Assets/Blueprint/Blueprint.md",
+    "Rotating Movement Component.md",
+    "Unreal Engine/Unsorted/World.md",
     "Unreal Engine/Unsorted/Volume.md",
-    "Unreal Engine/Unsorted/Casting.md",
-    "Unreal Engine/Basic Assets/Level.md",
-    "Unreal Engine/Unsorted/Character.md",
+    "Unreal Engine/Unsorted/Project.md",
+    "Unreal Engine/Unsorted/Player State.md",
+    "Unreal Engine/Unsorted/Player Controller.md",
+    "Unreal Engine/Unsorted/Pawn.md",
+    "Unreal Engine/Unsorted/Object.md",
+    "Unreal Engine/Unsorted/Game State.md",
+    "Unreal Engine/Unsorted/Class.md",
     "Unreal Engine/Unsorted/Component.md",
-    "Quotes/202408200837.md",
-    "Quotes/202408200852.md",
-    "Quotes/202408201351.md",
-    "Quotes/202408200847.md",
-    "Quotes/202408200842.md",
-    "Quotes/202408200829.md",
-    "Quotes/202408202108.md",
-    "Unreal Engine/Basic Assets/Blueprint/Nodes/Events.md",
-    "Game Design",
+    "Unreal Engine/Unsorted/Character.md",
+    "Unreal Engine/Unsorted/Casting.md",
+    "Unreal Engine/Unsorted/Brush.md",
+    "Unreal Engine/Unsorted/AIController.md",
+    "Unreal Engine/Unsorted/Actor.md",
     "Unreal Engine/Unsorted",
-    "Unreal Engine/Новая папка",
+    "Unreal Engine/Basic Assets/Blueprint/Types of Blueprints/Data-Only Blueprint.md",
+    "Unreal Engine/Basic Assets/Blueprint/Types of Blueprints/Level Blueprint.md",
+    "Unreal Engine/Basic Assets/Blueprint/Types of Blueprints/Blueprint Interface.md",
+    "Unreal Engine/Basic Assets/Blueprint/Types of Blueprints/Blueprint Macro Library.md",
+    "Unreal Engine/Basic Assets/Blueprint/Nodes/Events.md",
     "Unreal Engine/Basic Assets/Blueprint/Types of Blueprints",
-    "Unreal Engine/Basic Assets/Blueprint/Новая папка",
     "Unreal Engine/Basic Assets/Blueprint/Nodes",
+    "Unreal Engine/Basic Assets/Blueprint/Blueprint.md",
+    "Unreal Engine/Basic Assets/Level.md",
     "Unreal Engine/Basic Assets/Blueprint",
-    "Unreal Engine/Basic Assets/Новая папка",
-    "Unreal Engine/Basic Assets"
+    "Unreal Engine/Basic Assets",
+    "Unreal Engine/Advanced Assets/User Interface/Widget Blueprint.md",
+    "Unreal Engine/Advanced Assets/Animation/Blend Space 1D.md",
+    "Unreal Engine/Advanced Assets/User Interface",
+    "Unreal Engine/Advanced Assets/Animation",
+    "Unreal Engine/Advanced Assets",
+    "Unreal Engine",
+    "Game Design/Примеры/Бейсбол на Wii Sports.md",
+    "Game Design/Примеры"
   ]
 }
