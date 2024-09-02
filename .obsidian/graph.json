@@ -5,7 +5,7 @@
   "showAttachments": false,
   "hideUnresolved": false,
   "showOrphans": true,
-  "collapse-color-groups": false,
+  "collapse-color-groups": true,
   "colorGroups": [
     {
       "query": "path:\"Unreal Engine\"  ",
@@ -18,14 +18,14 @@
       "query": "path:\"Game Design/Джесси Шелл. Призмы\"  ",
       "color": {
         "a": 1,
-        "rgb": 14131864
+        "rgb": 14725458
       }
     },
     {
       "query": "path:\"Game Design\"  ",
       "color": {
         "a": 1,
-        "rgb": 14725458
+        "rgb": 14131864
       }
     },
     {
@@ -36,16 +36,16 @@
       }
     }
   ],
-  "collapse-display": true,
+  "collapse-display": false,
   "showArrow": false,
   "textFadeMultiplier": -0.5,
-  "nodeSizeMultiplier": 1,
-  "lineSizeMultiplier": 1,
+  "nodeSizeMultiplier": 1.01875,
+  "lineSizeMultiplier": 1.01875,
   "collapse-forces": false,
-  "centerStrength": 0.5,
-  "repelStrength": 10,
+  "centerStrength": 0.776041666666667,
+  "repelStrength": 20,
   "linkStrength": 1,
   "linkDistance": 253,
-  "scale": 0.38230109687700126,
+  "scale": 0.16348370567220513,
   "close": false
 }
